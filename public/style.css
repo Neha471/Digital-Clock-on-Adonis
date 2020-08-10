@@ -9,7 +9,7 @@ html, body {
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
-  
+  background-color: #eee;
   
 
 }
@@ -103,6 +103,25 @@ p {
 }
 .container{
 	font-family: cursive;
-	box-shadow: 3px 3px 3px 3px;
-	
+}
+a{
+  text-decoration: none;
+}
+.navbar{
+  background-color: black;
+  color: white!important;
+}
+.jumbotron{
+  background-color: #ff9999;
+}
+.clock-img{
+  background-image: url('clock.jpeg');
+ 
+}
+blockquote{
+  color: white;
+  font-size: 20px;
+}
+.py-4{
+  background-color: darkcyan;
 }
